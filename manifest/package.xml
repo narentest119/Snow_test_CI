@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Test_DC_Connect</members>
+        <name>DataKitObjectTemplate</name>
+    </types>
+    <types>
+        <members>DC_Connect</members>
+        <name>DataPackageKitDefinition</name>
+    </types>
+    <types>
+        <members>DC_Connect_1759493853181</members>
+        <name>DataPackageKitObject</name>
+    </types>
+    <version>64.0</version>
+</Package>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectTemplate xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <developerName xsi:nil="true"/>
+    <entityPayload>{&quot;connection&quot;:{&quot;connectorType&quot;:&quot;SNOWFLAKE&quot;,&quot;method&quot;:&quot;Ingress&quot;,&quot;credentials&quot;:[{&quot;paramName&quot;:&quot;user&quot;,&quot;value&quot;:&quot;DataCloudUser&quot;},{&quot;paramName&quot;:&quot;authenticationOption&quot;,&quot;value&quot;:&quot;KeyPair&quot;}],&quot;lastModifiedDate&quot;:&quot;2025-09-19T06:01:57.000Z&quot;,&quot;editable&quot;:true,&quot;connectorLabel&quot;:&quot;Snowflake&quot;,&quot;deletable&quot;:true,&quot;label&quot;:&quot;Test_DC_Connect&quot;,&quot;params&quot;:[{&quot;paramName&quot;:&quot;accountUrl&quot;,&quot;value&quot;:&quot;https://wvszfdo-xs04314.snowflakecomputing.com&quot;},{&quot;paramName&quot;:&quot;region&quot;,&quot;value&quot;:&quot;ca-central-1.aws&quot;},{&quot;paramName&quot;:&quot;warehouse&quot;,&quot;value&quot;:&quot;TEST_DC_CONNECT&quot;},{&quot;paramName&quot;:&quot;unloadData&quot;,&quot;value&quot;:&quot;false&quot;}],&quot;url&quot;:&quot;/services/data/v64.0/ssot/connections/9cggL000000O6vVQAS&quot;,&quot;createdDate&quot;:&quot;2025-09-19T05:58:19.000Z&quot;,&quot;name&quot;:&quot;Test_DC_Connect&quot;,&quot;namespace&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;/cdp/images/connectors/SNOWFLAKE.svg&quot;,&quot;id&quot;:&quot;9cggL000000O6vVQAS&quot;,&quot;syncStatus&quot;:&quot;None&quot;,&quot;status&quot;:&quot;Active&quot;}}</entityPayload>
+    <masterLabel>Test_DC_Connect</masterLabel>
+    <parentDataPackageKitDefinitionName xsi:nil="true"/>
+    <sourceObject>Test_DC_Connect</sourceObject>
+    <sourceObjectType>MktDataConnection</sourceObjectType>
+    <templateVersion>2</templateVersion>
+</DataKitObjectTemplate>
